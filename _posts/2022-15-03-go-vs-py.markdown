@@ -1,7 +1,7 @@
 ---
 title: "Golang vs Python for backend"
 date: 2022-15-03 10:18:00
-description: The ultimate fight between the two: Python or Goland for backend
+description: The ultimate fight between the two - Python or Goland for backend
 ---
 
 Both Python and Golang are popular programming languages and widely used in full-stack development, mostly on backend-development. Both of these languages have their places and use cases and in this post, I will cover some of them to help you choose the best option.
